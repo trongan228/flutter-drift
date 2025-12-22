@@ -1,0 +1,15 @@
+<svg id="Calendar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3778" data-name="Rectangle 3778" width="16" height="16" fill="#c4c4c4"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_2990" data-name="Mask Group 2990" clip-path="url(#clip-path)">
+    <g id="calendar-2" data-name="calendar">
+      <path id="Path_11890" data-name="Path 11890" d="M12.667,1.333H12V.667a.667.667,0,1,0-1.333,0v.667H5.333V.667A.667.667,0,0,0,4,.667v.667H3.333A3.337,3.337,0,0,0,0,4.667v8A3.337,3.337,0,0,0,3.333,16h9.333A3.337,3.337,0,0,0,16,12.667v-8A3.337,3.337,0,0,0,12.667,1.333ZM1.333,4.667a2,2,0,0,1,2-2h9.333a2,2,0,0,1,2,2v.667H1.333Zm11.333,10H3.333a2,2,0,0,1-2-2v-6H14.667v6A2,2,0,0,1,12.667,14.667Z" fill="#c4c4c4"/>
+      <circle id="Ellipse_162" data-name="Ellipse 162" cx="1" cy="1" r="1" transform="translate(7 9)" fill="#c4c4c4"/>
+      <circle id="Ellipse_163" data-name="Ellipse 163" cx="1" cy="1" r="1" transform="translate(3.667 9)" fill="#c4c4c4"/>
+      <circle id="Ellipse_164" data-name="Ellipse 164" cx="1" cy="1" r="1" transform="translate(10.333 9)" fill="#c4c4c4"/>
+    </g>
+  </g>
+</svg>

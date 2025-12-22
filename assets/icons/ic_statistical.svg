@@ -1,0 +1,15 @@
+<svg id="Thống_kê" data-name="Thống kê" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3767" data-name="Rectangle 3767" width="20" height="20" transform="translate(243 97)" fill="#c4c4c4"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_2981" data-name="Mask Group 2981" transform="translate(-243 -97)" clip-path="url(#clip-path)">
+    <g id="stats" transform="translate(243 97)">
+      <path id="Path_11886" data-name="Path 11886" d="M4.583,17.5A2.083,2.083,0,0,1,2.5,15.417V1.25A1.25,1.25,0,0,0,1.25,0h0A1.25,1.25,0,0,0,0,1.25V15.417A4.583,4.583,0,0,0,4.583,20H18.75A1.25,1.25,0,0,0,20,18.75h0a1.25,1.25,0,0,0-1.25-1.25Z" fill="#c4c4c4"/>
+      <path id="Path_11887" data-name="Path 11887" d="M19.25,16.5a1.25,1.25,0,0,0,1.25-1.25v-5a1.25,1.25,0,0,0-2.5,0v5A1.25,1.25,0,0,0,19.25,16.5Z" transform="translate(-3 -1.5)" fill="#c4c4c4"/>
+      <path id="Path_11888" data-name="Path 11888" d="M7.25,16.5A1.25,1.25,0,0,0,8.5,15.25v-5a1.25,1.25,0,1,0-2.5,0v5A1.25,1.25,0,0,0,7.25,16.5Z" transform="translate(-1 -1.5)" fill="#c4c4c4"/>
+      <path id="Path_11889" data-name="Path 11889" d="M13.25,15.667a1.25,1.25,0,0,0,1.25-1.25V5.25a1.25,1.25,0,0,0-2.5,0v9.167A1.25,1.25,0,0,0,13.25,15.667Z" transform="translate(-2 -0.667)" fill="#c4c4c4"/>
+    </g>
+  </g>
+</svg>

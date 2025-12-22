@@ -1,0 +1,15 @@
+<svg id="Menu" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3765" data-name="Rectangle 3765" width="24" height="24" transform="translate(183 97)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_2980" data-name="Mask Group 2980" transform="translate(-183 -97)" clip-path="url(#clip-path)">
+    <g id="align-justify" transform="translate(183 96.5)">
+      <path id="Path_11882" data-name="Path 11882" d="M1,6H23a1,1,0,0,0,0-2H1A1,1,0,0,0,1,6Z" fill="#fff"/>
+      <path id="Path_11883" data-name="Path 11883" d="M23,9H1a1,1,0,0,0,0,2H23a1,1,0,0,0,0-2Z" fill="#fff"/>
+      <path id="Path_11884" data-name="Path 11884" d="M23,19H1a1,1,0,0,0,0,2H23a1,1,0,0,0,0-2Z" fill="#fff"/>
+      <path id="Path_11885" data-name="Path 11885" d="M23,14H1a1,1,0,0,0,0,2H23a1,1,0,0,0,0-2Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>
